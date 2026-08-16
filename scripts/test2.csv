@@ -1,0 +1,12 @@
+target entity,target column,population,target data type,source schema.table,source field,source data type,is pbi logic? (y/n)
+,,,VARCHAR(35),sa_swift_S_CLIENT,CorrAddress1,VARCHAR(35),Y
+,,,,sa_swift_S_CLIENT,AgentCode,VARCHAR(7),
+,,,,sa_swift_S_AGENTS,ADDRESS1,VARCHAR(35),
+,,,,sa_swift_S_AGENTS,Code,VARCHAR(7),
+address,address_id,,string,,,,
+address,address_line_2,,VARCHAR(35),,,,
+address,address_line_3,,VARCHAR(35),,,,
+address,address_line_4,,VARCHAR(35),,,,
+address,address_line_5,,VARCHAR(35),,,,
+address,country,,VARCHAR(35),,,,
+address,postcode,,VARCHAR(10),,,,
